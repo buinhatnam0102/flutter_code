@@ -7,14 +7,14 @@ import 'package:flutter_xxx/PlannerApp/widget/new_transaction.dart';
 import 'model/transaction.dart';
 import 'widget/transaction_list.dart';
 
-// void main() {
-//   // WidgetsFlutterBinding.ensureInitialized();
-//   // SystemChrome.setPreferredOrientations([
-//   //   DeviceOrientation.portraitUp,
-//   //   DeviceOrientation.portraitDown
-//   // ]);
-//   runApp(PlannerApp());
-// }
+void main() {
+  // WidgetsFlutterBinding.ensureInitialized();
+  // SystemChrome.setPreferredOrientations([
+  //   DeviceOrientation.portraitUp,
+  //   DeviceOrientation.portraitDown
+  // ]);
+  runApp(PlannerApp());
+}
 
 class PlannerApp extends StatelessWidget {
   @override

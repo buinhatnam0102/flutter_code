@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_xxx/MealApp/widget/categories_screen.dart';
 import 'package:flutter_xxx/MealApp/widget/category_meals_screen.dart';
-import 'package:flutter_xxx/MealApp/widget/meal_detail.dart';
+import 'package:flutter_xxx/MealApp/widget/meal_detail_screen.dart';
 import 'data/dummy_data.dart';
+/*
 void main()=>runApp(MyMealApp());
 class MyMealApp extends StatelessWidget {
+*/
 
   @override
   Widget build(BuildContext context) {
